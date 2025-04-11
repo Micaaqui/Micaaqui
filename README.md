@@ -56,6 +56,6 @@ I'm passionate about building beautiful things and learning something new with e
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/micaaqui/micaaqui/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Micaaqui/Micaaqui/refs/heads/output/snake.svg" alt="Snake animation" />
 
 ###

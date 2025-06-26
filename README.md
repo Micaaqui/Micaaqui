@@ -47,7 +47,7 @@ I'm passionate about building beautiful things and learning something new with e
 ###
 
 <div align="left">
-  <a href="https://linkedin.com/in/micaela-santos-a8909a235">
+  <a href="https://linkedin.com/in/micaela-santos-a8909a235" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>

@@ -1,6 +1,6 @@
 <h4 align="left">
 
-Hey there 👋 I'm Micaela Santos, a 26-year-old Brazilian based in Berlin, exploring the world of front-end development — and yes, I'm also a proud cat mom 🐱
+Hey there 👋 I'm Micaela Santos, a 27-year-old Brazilian based in Berlin, exploring the world of front-end development — and yes, I'm also a proud cat mom 🐱
 
 I'm passionate about building beautiful things and learning something new with every line of code. Currently, I'm diving deeper into the JavaScript ecosystem, studying Next.js and Node.js to level up my skills and bring more dynamic, full-stack experiences to life.
   

@@ -6,18 +6,8 @@ I'm passionate about building beautiful things and learning something new with e
   
 </h4>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=micaaqui&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
-
-
-###
-
+<br>
 <img align="right" height="150" src="https://i.pinimg.com/736x/d7/17/2f/d7172f8a2bfcc13d34e8b533f28c4da5.jpg"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -42,8 +32,7 @@ I'm passionate about building beautiful things and learning something new with e
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
 </div>
-
-###
+<br>
 
 <div align="left">
   <a href="https://linkedin.com/in/micaela-santos-a8909a235" target="_blank" rel="noopener noreferrer">
@@ -51,10 +40,6 @@ I'm passionate about building beautiful things and learning something new with e
   </a>
 </div>
 
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Micaaqui/Micaaqui/refs/heads/output/snake.svg" alt="Snake animation" />
-
-###
